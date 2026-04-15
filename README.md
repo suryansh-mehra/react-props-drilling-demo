@@ -56,6 +56,7 @@ npm run dev
 
 ## Preview
 
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 224750" src="https://github.com/user-attachments/assets/b6d33736-d3e2-4181-ab1d-d51f550a1fed" />
 
 
 ---
